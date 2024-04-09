@@ -1,4 +1,57 @@
-Desafio: Implementação de Práticas DevOps em um Ambiente Empresarial Fictício 
+Challenge: Implementing DevOps Practices in a Fictitious Business Environment (English version)
+
+
+Project steps:
+
+1. Cultural Diagnosis (C of CALMS):
+
+    • Identify a process in the fictional company that could benefit from implementing DevOps practices.
+
+    Deploy: Deployment is performed manually in the production environment, without following a standardized procedure or using automation.
+
+    • Describe the current process, highlighting possible points of friction between teams and opportunities for improvement.
+
+The centralization of technical knowledge.
+
+A possible solution would be:
+
+Decentralize technical knowledge, thereby encouraging collaboration between teams. To do this, we will need to create knowledge documentation in Delphi, asking the only professional in the company who has this knowledge. This way we do not contribute to the superhero syndrome, which ends up being a bottleneck for both the person and the organization.
+
+2. Automation (A of CALMS):
+
+    • Propose an automation solution to improve the process identified in the previous step.
+    • Develop a plan to implement automation efficiently and minimize possible resistance.
+
+ To solve these problems it is necessary to automate everything that can be automated, for a deployment to reach production it is important to have an approved person and more tests. Code review, to avoid breaking the application with faulty code. This way, we can quickly experiment and validate ideas. Promoting continuous delivery and operational efficiency.
+
+ 3. Measurement and Knowledge Sharing (M and S of CALMS):
+
+    • Establish relevant metrics to assess the impact of automation on process efficiency and quality.
+    • Create a plan to disseminate knowledge about the improvements implemented and cultivate a culture of collaboration and learning.
+
+Measurement needs to be at a negotiation level and at a technical level, and it is important for negotiable metrics to make decisions based on the data collected. When creating a new feature, scale how many people access the site, whether people have accessed the new feature? And by exposing the metrics, we can as a team understand the direction of the app. The main focus is to provide feedback and insights for continuous improvement of the process.
+
+By sharing knowledge, we can learn from mistakes, encourage the team to seek new technologies to solve problems, encouraging a culture of collaboration and continuous delivery.
+
+
+In this first part, CALMS is in the line of diagnosing what we have today and what we need to do to actually implement the DevOps culture. The 3 ways will help in this second part.
+
+
+4. Three Ways:
+
+    • Identify opportunities to simplify the process and accelerate the delivery of value to customers.
+    • Establish a mechanism to collect feedback periodically and integrate it into the development cycle.
+    • Encourage a culture of experimentation and learning, where failures are seen as opportunities for improvement.
+
+The constant optimization that would be the measurements, having good metrics mainly within the critical flow. Concise intervals, deploying constantly so that we can get constant feedback, know if it is well accepted and create an experimental mentality.
+Automate everything you can that is repetitive.
+Continuous feedbacks between workflow and communication, error detection and faster recovery. In the end, the result will be the acceleration of flow, expansion of feedback, experimentation and learning.
+
+
+_________________________________________________________________________________________________________
+
+
+Desafio: Implementação de Práticas DevOps em um Ambiente Empresarial Fictício (Versão português)
 
 
 Etapas do Projeto:
